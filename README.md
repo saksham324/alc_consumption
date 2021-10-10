@@ -31,4 +31,4 @@ This paper explores the effects of alcohol consumption on the use of hard drugs,
 17. `Yrdum` : dummy variable, one for each year between 1998 to 2008.
 18. `Region` : categorical variable, 1 for  Northeast (CT, ME, MA, NH, NJ, NY, PA, RI, VT). 2 for North Central (IL, IN, IA, KS, MI, MN, MO, NE, OH, ND, SD, WI), 3 for South (AL, AR, DE, DC, FL, GA, KY, LA, MD, MS, NC, OK, SC, TN , TX, VA, WV), 4 for West (AK, AZ, CA, CO, HI, ID, MT, NV, NM, OR, UT, WA, WY)
 
-** Data processing, cleaning and regression done in STATA by Saksham Arora.**
+**Data processing, cleaning and regression done in STATA by Saksham Arora**.
