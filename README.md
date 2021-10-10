@@ -1,10 +1,11 @@
-`Pubid` : unique id for each respondent 
-`Demographic Variables` : 
-`Female` : dummy variable, 1 if assigned as female at birth, 0 otherwise
+<h2> Variables </h2>
+`Pubid` : unique id for each respondent \
+`Demographic Variables` : \
+`Female` : dummy variable, 1 if assigned as female at birth, 0 otherwise \
 `Black` : dummy variable, 1 if identified as belonging to the african american race, 0 otherwise 
-`White` : dummy variable, 1 if identified as belonging to the white race, 0 otherwise 
-`Hispanic` : dummy variable, 1 if identified as belonging to the hispanic ethnicity, 0 otherwise 
-`Non_white` : dummy variable, 1 if identified as not belonging to the white race, 0 otherwise 
+`White` : dummy variable, 1 if identified as belonging to the white race, 0 otherwise \
+`Hispanic` : dummy variable, 1 if identified as belonging to the hispanic ethnicity, 0 otherwise \
+`Non_white` : dummy variable, 1 if identified as not belonging to the white race, 0 otherwise \
 `Other_races` : dummy variable, 1 if identified as belonging to native american, asian american or other races apart from black and white, 0 otherwise 
 `Age` : continuous variable, age of respondent on day of interview 
 `Over_21` : dummy variable, 1 if age >= 21, 0 otherwise 
