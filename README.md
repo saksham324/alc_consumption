@@ -1,4 +1,4 @@
-# Research Project for Econometrics 20, Winter 2021
+# The Effect of Alcohol Consumption on Hard Drug Use
 
 ## Authors: Saksham Arora, Foster Burnley, Griffin Kozlow, Sophie Kwon, and Anna Martin
 
